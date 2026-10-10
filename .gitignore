@@ -1,0 +1,13 @@
+# Build output (the .exe is published through GitHub Releases, not committed)
+/build/
+/dist/
+*.exe
+*.res
+*.o
+*.obj
+
+# Editors / OS
+.vscode/
+.vs/
+Thumbs.db
+desktop.ini

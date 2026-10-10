@@ -1,0 +1,27 @@
+1 ICON "res/Centered-Taskbar.ico"
+1 24 "res/Centered-Taskbar.manifest"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4L
+FILETYPE 0x1L
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "FileDescription", "Centered-Taskbar"
+      VALUE "FileVersion", "1.0.0"
+      VALUE "InternalName", "Centered-Taskbar"
+      VALUE "OriginalFilename", "Centered-Taskbar.exe"
+      VALUE "ProductName", "Centered-Taskbar"
+      VALUE "ProductVersion", "1.0.0"
+      VALUE "LegalCopyright", "MIT License"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 1200
+  END
+END
